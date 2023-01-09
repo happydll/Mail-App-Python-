@@ -1,0 +1,2 @@
+#Gönderilecek kişi ismi , Mail adresi ("""Arada boşluk var""")
+Örn: Ali alialiali@gmail.com
